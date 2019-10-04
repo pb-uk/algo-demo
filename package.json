@@ -1,0 +1,21 @@
+{
+  "name": "learn-initial-value",
+  "private": true,
+  "scripts": {
+    "lint": "eslint . --ext .js,.vue",
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/vue-remark": "^0.1.5",
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}

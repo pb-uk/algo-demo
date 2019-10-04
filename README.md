@@ -1,6 +1,4 @@
-# Learn initial value problem
-
-> Numerical methods for solving initial value problems.
+# Demonstrating algorithms
 
 Not ready for publication.
 

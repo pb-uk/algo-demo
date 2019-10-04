@@ -20,3 +20,7 @@ Not ready for publication.
    ```bash
    gridsome build
    ```
+
+[Gridsome](https://gridsome.org/docs/)
+[VueRemark](https://github.com/gridsome/gridsome/tree/master/packages/vue-remark)
+- Gridsome markdown component.
